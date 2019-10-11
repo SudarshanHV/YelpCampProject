@@ -1,0 +1,18 @@
+body{
+	background: rgb(110, 110, 52);
+}
+
+.thumbnail img{
+	width:100%;
+}
+.thumbnail{
+	padding:0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+#delete_form{
+	display:inline;
+}

@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"middlewareObj"
+			],
+			[
+				"findB",
+				"findByIdAndUpdate"
+			],
+			[
+				"camp",
+				"campgroundRoutes"
+			],
+			[
+				"comm",
+				"commentRoutes"
+			],
+			[
+				"de",
+				"deserializeUser"
+			],
+			[
+				"pa",
+				"passportLocalMongoose"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"post",
+				"postSchema"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Training/NodeIntro/YelpCamp v2/views/campgrounds/edit.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/views/register.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/views/login.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/public/stylesheets/main.css",
+		"/D/Training/NodeIntro/YelpCamp v2/views/comments/edit.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/routes/campgrounds.js",
+		"/D/Training/NodeIntro/YelpCamp v2/views/campgrounds/show.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/middleware/index.js",
+		"/D/Training/NodeIntro/YelpCamp v2/routes/comments.js",
+		"/D/Training/NodeIntro/YelpCamp v2/views/comments/new.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/views/campgrounds/new.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/seeds.js",
+		"/D/Training/NodeIntro/YelpCamp v2/models/comment.js",
+		"/D/Training/NodeIntro/YelpCamp v2/models/campground.js",
+		"/D/Training/NodeIntro/YelpCamp v2/models/user.js",
+		"/D/Training/NodeIntro/YelpCamp v2/routes/index.js",
+		"/D/Training/NodeIntro/YelpCamp v2/views/campgrounds/index.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/views/partials/header.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2\"",
+		"/D/Training/NodeIntro/YelpCamp v2/views/home.ejs",
+		"/D/Training/NodeIntro/Authentication/AuthDemo/app.js",
+		"/D/mindsprint/client/src/App.js",
+		"/D/mindsprint/client/public/index.html",
+		"/D/mindsprint/client/src/index.css",
+		"/D/Training/NodeIntro/YelpCamp v2/views/campgrounds.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/views/show.ejs",
+		"/D/Training/NodeIntro/YelpCamp v2/app.js",
+		"/D/Training/NodeIntro/YelpCamp/app.js",
+		"/D/xampp/htdocs/Project/footer.php",
+		"/D/xampp/htdocs/Project/header.php",
+		"/D/xampp/htdocs/Project/index.php",
+		"/D/xampp/htdocs/Project/index.css",
+		"/D/xampp/htdocs/Project/includes/dbh.php",
+		"/D/Training/NodeIntro/Associations/models/user.js",
+		"/D/Training/NodeIntro/Associations/models/post.js",
+		"/D/Training/NodeIntro/Associations/references.js",
+		"/D/Training/NodeIntro/Associations/embed.js",
+		"/D/Training/NodeIntro/YelpCamp/models/campground.js",
+		"/D/Training/NodeIntro/BlogApp/app.js",
+		"/C/Users/Sudarshan H V/Desktop/Power.txt",
+		"/C/Users/Sudarshan H V/Desktop/Test.p"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 404.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
